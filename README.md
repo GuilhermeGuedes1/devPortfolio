@@ -20,6 +20,9 @@ além de outros aprendizados que busquei por conta própria. O objetivo é apres
 - Contatos e redes sociais
 
 ## 📸 Demonstração
+![Captura de tela 2025-02-24 123221](https://github.com/user-attachments/assets/280a50eb-09a8-4ee8-849a-3957411d825e)
+![Captura de tela 2025-02-24 123251](https://github.com/user-attachments/assets/c0f86a79-891c-4362-a3f5-782a58ae2386)
+
 
 
 ## 📂 Como visualizar o projeto?
