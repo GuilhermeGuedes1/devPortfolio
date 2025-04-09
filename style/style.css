@@ -285,6 +285,8 @@ section.projects {
 
 .cards img {
     width: 80%;
+    height: 150px;
+    object-fit: cover;
     margin-top: 30px;
     border-radius: 12px;
     border: 1px solid transparent;
