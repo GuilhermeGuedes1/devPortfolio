@@ -27,13 +27,14 @@ body, html {
 
 nav { 
     position: fixed;
-    top: 0%;
+    top: 0;
     overflow: hidden;
     width: 100%;    
     display: flex;
     justify-content: space-around;
     padding: 22px;
-    background-color: #fafafaee;
+    background-color: #ffffffee;
+    z-index: 99999;
     
 }
 
@@ -63,14 +64,14 @@ ul {
    top: 0;
    left: 0;
    width: 200px;
-   height: 30vh;
+   height: 100%;
    background: #ffffffbf;
    padding-top: 60px;
    box-shadow: 3px 0 10px rgb(0, 0, 0.6);
    opacity: 0;
    transform: translateX(-100%);
    transition: transform 0.5s ease-out, opacity 0.5s ease-out;
-   border-bottom-right-radius: 3px;
+   z-index: 99999;
 }
 
 .menu.active { 
